@@ -1,7 +1,15 @@
 public class NextDayCalculator {
-    public static void NextDayCalculator(int day, int month, int year){
-        checkMonth(month, year);
-
+    public static String NextDayCalculator(int day, int month, int year){
+        int checkDay= checkMonth(month, year);
+        if (day==checkDay){
+            if(month!=12){
+                return "1/"+ (month+1)+"/"+ year;
+            }else{
+                return "1/1"+"/"+(year+1);
+            }
+        }else {
+            return (day+1)+"/"+month+"/"+year;
+        }
     }
 
     private static int checkMonth(int month, int year) {
@@ -22,6 +30,8 @@ public class NextDayCalculator {
             case 2:
                 if (checkIsLeapYear(year)) return 29;
                 else return 28;
+            default:
+                System.out.println("undefined");
         }
         return month;
     }
