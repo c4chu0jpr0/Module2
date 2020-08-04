@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AccessModifier/AModifier/AModifier.iml" filepath="$PROJECT_DIR$/AccessModifier/AModifier/AModifier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AbstractAndInterface/AbstractAndInterface.iml" filepath="$PROJECT_DIR$/AbstractAndInterface/AbstractAndInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayAndMethod/ArrayAndMethod.iml" filepath="$PROJECT_DIR$/ArrayAndMethod/ArrayAndMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AutomatedTesting/AutomatedTesting.iml" filepath="$PROJECT_DIR$/AutomatedTesting/AutomatedTesting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/Circle/Circle.iml" filepath="$PROJECT_DIR$/Inheritance/Circle/Circle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CleanCode/CleanCode.iml" filepath="$PROJECT_DIR$/CleanCode/CleanCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AccessModifier/AModifier/Default/Default.iml" filepath="$PROJECT_DIR$/AccessModifier/AModifier/Default/Default.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/Fan/Fan.iml" filepath="$PROJECT_DIR$/OOP/Fan/Fan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AutomatedTesting/GiaTriTuyetDoi/GiaTriTuyetDoi.iml" filepath="$PROJECT_DIR$/AutomatedTesting/GiaTriTuyetDoi/GiaTriTuyetDoi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IntroducetoJava/IntroducetoJava.iml" filepath="$PROJECT_DIR$/IntroducetoJava/IntroducetoJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AutomatedTesting/Lession1/Lession1.iml" filepath="$PROJECT_DIR$/AutomatedTesting/Lession1/Lession1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CleanCode/Lession2/Lession2.iml" filepath="$PROJECT_DIR$/CleanCode/Lession2/Lession2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CleanCode/Lession3/Lession3.iml" filepath="$PROJECT_DIR$/CleanCode/Lession3/Lession3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AbstractAndInterface/Lesson1/Lesson1.iml" filepath="$PROJECT_DIR$/AbstractAndInterface/Lesson1/Lesson1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AbstractAndInterface/Lesson2/Lesson2.iml" filepath="$PROJECT_DIR$/AbstractAndInterface/Lesson2/Lesson2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AbstractAndInterface/Lesson3/Lesson3.iml" filepath="$PROJECT_DIR$/AbstractAndInterface/Lesson3/Lesson3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AbstractAndInterface/Lesson4/Lesson4.iml" filepath="$PROJECT_DIR$/AbstractAndInterface/Lesson4/Lesson4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AbstractAndInterface/Lesson5/Lesson5.iml" filepath="$PROJECT_DIR$/AbstractAndInterface/Lesson5/Lesson5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LoopInJava/LoopInJava.iml" filepath="$PROJECT_DIR$/LoopInJava/LoopInJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module2.iml" filepath="$PROJECT_DIR$/Module2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/OOP.iml" filepath="$PROJECT_DIR$/OOP/OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/Point2d-3d/Point2d-3d.iml" filepath="$PROJECT_DIR$/Inheritance/Point2d-3d/Point2d-3d.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/PointAndMoveable/PointAndMoveable.iml" filepath="$PROJECT_DIR$/Inheritance/PointAndMoveable/PointAndMoveable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AccessModifier/AModifier/Protected/Protected.iml" filepath="$PROJECT_DIR$/AccessModifier/AModifier/Protected/Protected.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AccessModifier/AModifier/Public/Public.iml" filepath="$PROJECT_DIR$/AccessModifier/AModifier/Public/Public.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/QuadraticEquation/QuadraticEquation.iml" filepath="$PROJECT_DIR$/OOP/QuadraticEquation/QuadraticEquation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/Shape/Shape.iml" filepath="$PROJECT_DIR$/Inheritance/Shape/Shape.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/StopWatch/StopWatch.iml" filepath="$PROJECT_DIR$/OOP/StopWatch/StopWatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CleanCode/lession1/lession1.iml" filepath="$PROJECT_DIR$/CleanCode/lession1/lession1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AutomatedTesting/Lession3/lession3.iml" filepath="$PROJECT_DIR$/AutomatedTesting/Lession3/lession3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CleanCode/lession4/lession4.iml" filepath="$PROJECT_DIR$/CleanCode/lession4/lession4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/triangle/triangle.iml" filepath="$PROJECT_DIR$/Inheritance/triangle/triangle.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AModifier/AModifier.iml" filepath="$PROJECT_DIR$/AModifier/AModifier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AccessModifier.iml" filepath="$PROJECT_DIR$/AccessModifier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AModifier/Default/Default.iml" filepath="$PROJECT_DIR$/AModifier/Default/Default.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise/Exercise.iml" filepath="$PROJECT_DIR$/Exercise/Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AModifier/Protected/Protected.iml" filepath="$PROJECT_DIR$/AModifier/Protected/Protected.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AModifier/Public/Public.iml" filepath="$PROJECT_DIR$/AModifier/Public/Public.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StacticProperty/StacticProperty.iml" filepath="$PROJECT_DIR$/StacticProperty/StacticProperty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StaticMethod/StaticMethod.iml" filepath="$PROJECT_DIR$/StaticMethod/StaticMethod.iml" />
+    </modules>
+  </component>
+</project>
